@@ -1,22 +1,12 @@
 package service;
 
-public class Resource {
-    private Long id;
+public class Workspace {
     private String name;
     private int capacity;
 
-    public Resource(Long id, String name, int capacity) {
-        this.id = id;
+    public Workspace(String name, int capacity) {
         this.name = name;
         this.capacity = capacity;
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
     }
 
     public String getName() {
