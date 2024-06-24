@@ -50,41 +50,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="2iGkf5L7aGGJRTasBLzW9Tfzy02" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.BookingServiceImplTest.executor": "Run",
-    "JUnit.BookingServiceImplTest.testGetBookingsByDate.executor": "Run",
-    "JUnit.MeetingRoomServiceImplTest.executor": "Run",
-    "JUnit.UserServiceImplTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java Projects/test01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1719220492343" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java Projects\CoworkingServiceTest\YLAB Projects\CoworkingService\src\main\java\service" />
       <recent name="D:\Java Projects\CoworkingServiceTest\YLAB Projects\CoworkingService\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookingServiceImplTest">
+  <component name="RunManager" selected="JUnit.UserServiceImplTest">
     <configuration name="BookingServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NewCoworkingService" />
       <extension name="coverage">
@@ -95,7 +86,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="service.test" />
       <option name="MAIN_CLASS_NAME" value="service.test.BookingServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,7 +116,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="service.test" />
       <option name="MAIN_CLASS_NAME" value="service.test.MeetingRoomServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,17 +130,16 @@
       </extension>
       <option name="PACKAGE_NAME" value="service.test" />
       <option name="MAIN_CLASS_NAME" value="service.test.UserServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserServiceImplTest" />
         <item itemvalue="JUnit.BookingServiceImplTest" />
         <item itemvalue="JUnit.MeetingRoomServiceImplTest" />
         <item itemvalue="JUnit.BookingServiceImplTest.testGetBookingsByDate" />
-        <item itemvalue="JUnit.UserServiceImplTest" />
       </list>
     </recent_temporary>
   </component>
